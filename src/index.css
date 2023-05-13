@@ -1,0 +1,23 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+  font-family: "Bold";
+  src: url("./fonts//RG-StandardBold.ttf") format("truetype");
+}
+
+@font-face {
+  font-family: "Normal";
+  src: url("./fonts//RG-SlimBook.ttf") format("truetype");
+}
+
+@font-face {
+  font-family: "Medium";
+  src: url("./fonts//RG-StandardMedium.ttf") format("truetype");
+}
+
+@font-face {
+  font-family: "SemiBold";
+  src: url("./fonts//RG-StandardSemibold.ttf") format("truetype");
+}
